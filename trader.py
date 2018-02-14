@@ -22,6 +22,7 @@ balance = session.get('https://api.hitbtc.com/api/2/trading/balance').json()
 
 #Get json for prices
 price = session.get('https://api.hitbtc.com/api/2/public/ticker').json()
+print(price)
 
 
 #Places order
