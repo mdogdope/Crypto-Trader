@@ -8,3 +8,4 @@ x = TotalCost()
 x.setcoin("DSH")
 print (x.getpaid())
 print(x.getbal())
+
