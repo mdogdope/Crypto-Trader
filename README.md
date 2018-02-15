@@ -5,4 +5,4 @@ I am currently developing this by myself. If you like python and crypto trading 
 
 Feel free to download a copy and mess with it yourself. I only ask that if you want to make a donation. I will have all the address for the cryptocoins at the bottom. Thank you in advance!
 
-I hope this will make things a litte easier for you. I am supper happy to be sharing this with y'all! Have fun and please leave a comment of things you like about it, things you want changed, and/or just to say hi.
+I hope this will make things a litte easier for you. I am supper happy to be sharing this with y'all! Have fun and please leave a comment in the issues tab and mark it acordingly: for things you like about it mark with [LIKE], for things you want changed mark with [SUG], for a disscussion mark with [DIS].
