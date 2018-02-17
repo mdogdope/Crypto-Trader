@@ -9,6 +9,7 @@ I hope this will make things a litte easier for you. I am supper happy to be sha
 
 
 Bitcoin: 1DvyRNAEaKk93Fef5UPvsfRUNeKRksg12q
+<br/>
 BitcoinCash: qr5mtet052cydja4ppt5ya9nead68wvacu07kp8dc3
 Blackcoin: B4owWiEYPnpmwVCo6a3gaq6Z5GjFSe4DdA
 Dash: XjCvNYjzPppSNfPdLQM1ner2Qe4jeYJvtv
